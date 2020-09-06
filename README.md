@@ -1,6 +1,18 @@
 # Metis Project 1 - MTA Exploratory Data Analysis
 
-## Project Proposal:
+### Introduction:
+In the first week of Metis Data Science bootcamp, students work in small teams in exploratory data analysis (EDA) of NYC MTA subway turnstile data to approximate the traffic in the station, so that organizations can optimally deploy street teams to solicit engagements (i.e. surveys, networking), given limited resources.
+
+### Team Members:
+- Tan Pengshi Alvin
+- Daniel Chang
+- Xinni
+
+### Contents:
+- Individual contributions to the project
+- A final presentation, fusing all contributions in ppt. and pdf. format 
+
+### Project Proposal:
  An email from a potential client:
 
  > Mike, Vinny & Julia -
